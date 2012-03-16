@@ -31,4 +31,4 @@ Instructions:
  <li>Push the project to your "your_username.github.com" repo</li>
 </ul>
 
-*If you already have a website on GitHub, make a subfolder in eliseworthy.github.com/hungry_academics (eliseworthy.github.com/hungry_academics/yourname) and submit a pull request
+*If you already have a page on GitHub or really don't want to do this, just put your solultions in your individual_solutions folder.
